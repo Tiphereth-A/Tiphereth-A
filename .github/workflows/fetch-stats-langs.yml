@@ -1,0 +1,34 @@
+name: Fetch Stats & Langs
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: fetch github-stats.svg & github-langs.svg
+        run: |
+          mkdir assets
+          curl 'https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&hide_border=true' > assets/github-stats.svg
+          curl 'https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&layout=compact&langs_count=12&hide_border=true' > assets/github-langs.svg
+          curl 'https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&hide_border=true&theme=dark' > assets/github-stats-dark.svg
+          curl 'https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&layout=compact&langs_count=12&hide_border=true&theme=dark' > assets/github-langs-dark.svg
+      
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-stats.svg & github-langs.svg to the output branch
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: stats-langs
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
