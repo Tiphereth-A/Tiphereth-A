@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/Tiphereth-A/Tiphereth-A/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **Tiphereth-A/Tiphereth-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
