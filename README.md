@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Tiphereth-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://raw.githubusercontent.com/Tiphereth-A/Tiphereth-A/main/assets/github-contribution-grid-snake.svg)
 
 <!--
