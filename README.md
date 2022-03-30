@@ -1,9 +1,12 @@
-### Hi there 👋
-
-[![Tiphereth-A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&&langs_count=8&layout=compact&&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">Hi there 👋</h3>
 
 ![](https://raw.githubusercontent.com/Tiphereth-A/Tiphereth-A/main/assets/github-contribution-grid-snake.svg)
+
+---
+
+- ⚡ Github Stats
+
+<p align="center"><a href="https://github.com/Tiphereth-A"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&theme=github_dark"></a><a href="https://github.com/Tiphereth-A"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&&langs_count=8&layout=compact&&hide=javascript,html&theme=github_dark"></a></p>
 
 <!--
 **Tiphereth-A/Tiphereth-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
