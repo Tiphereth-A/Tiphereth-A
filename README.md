@@ -6,7 +6,7 @@
 
 - ⚡ Github Stats
 
-<p align="center"><a href="https://github.com/Tiphereth-A"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true"></a><a href="https://github.com/Tiphereth-A"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&layout=compact&&hide=javascript,html"></a></p>
+<p align="center"><a href="https://github.com/Tiphereth-A"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true"></a><a href="https://github.com/Tiphereth-A"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&layout=compact&&hide=javascript,html,typescript,css"></a></p>
 
 <!--
 **Tiphereth-A/Tiphereth-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
