@@ -10,11 +10,11 @@
 
 # 📃 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [比赛记录 - Codeforces Round #796 &lpar;Div. 2&rpar;](https://tifa-233.xyz/archives/cfr796-2/)
 - [比赛记录 - CodeCraft-22 and Codeforces Round #795 &lpar;Div. 2&rpar; &lpar;A-D&rpar;](https://tifa-233.xyz/archives/cfr795-2/)
 - [Namomo Spring Camp 2022 Div1 每日一题记录 &lpar;Week 14&rpar;](https://tifa-233.xyz/archives/namomo2022s1-week14/)
 - [比赛记录 - Codeforces Round #794 &lpar;Div. 2&rpar; &lpar;A-D&rpar;](https://tifa-233.xyz/archives/cfr794-2/)
 - [题解 - Codeforces Round #793 &lpar;Div. 2&rpar; &lpar;A-D&rpar;](https://tifa-233.xyz/archives/cfr793-2/)
-- [Namomo Spring Camp 2022 Div1 每日一题记录 &lpar;Week 13&rpar;](https://tifa-233.xyz/archives/namomo2022s1-week13/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
