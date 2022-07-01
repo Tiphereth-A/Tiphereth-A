@@ -10,11 +10,11 @@
 
 # 📃 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [图论笔记 01- 基础概念](https://tifa-233.xyz/archives/graphth-01/)
+- [图论笔记 - 目录页 &lpar;更新中&rpar;](https://tifa-233.xyz/archives/graph-th/)
 - [题解 - [Luogu P5025] [SNOI2017] 炸弹](https://tifa-233.xyz/archives/luogu-p5025/)
 - [VP 记录 - 2021 ICPC Asia Taiwan Online Programming Contest](https://tifa-233.xyz/archives/icpc-atwo2021/)
 - [随笔 - Java: 基于 ScriptEngine 和 Swing 的极简科学计算器](https://tifa-233.xyz/archives/draft-018/)
-- [比赛记录 - Codeforces Round #796 &lpar;Div. 2&rpar;](https://tifa-233.xyz/archives/cfr796-2/)
-- [比赛记录 - CodeCraft-22 and Codeforces Round #795 &lpar;Div. 2&rpar; &lpar;A-D&rpar;](https://tifa-233.xyz/archives/cfr795-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
