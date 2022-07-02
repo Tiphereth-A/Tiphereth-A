@@ -10,8 +10,8 @@
 
 # 📃 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [图论笔记 01 - 基础概念](https://tifa-233.xyz/archives/graphth-01/)
 - [图论笔记 02 - 路与圈](https://tifa-233.xyz/archives/graphth-02/)
+- [图论笔记 01 - 基础概念](https://tifa-233.xyz/archives/graphth-01/)
 - [图论笔记 - 目录页 &lpar;更新中&rpar;](https://tifa-233.xyz/archives/graph-th/)
 - [题解 - [Luogu P5025] [SNOI2017] 炸弹](https://tifa-233.xyz/archives/luogu-p5025/)
 - [VP 记录 - 2021 ICPC Asia Taiwan Online Programming Contest](https://tifa-233.xyz/archives/icpc-atwo2021/)
