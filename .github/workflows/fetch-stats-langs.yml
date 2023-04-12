@@ -17,9 +17,9 @@ jobs:
       - name: fetch github-stats.svg & github-langs.svg
         run: |
           mkdir assets
-          curl 'https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&hide_border=true&include_all_commits=true' > assets/github-stats.svg
+          curl 'https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&hide_border=true' > assets/github-stats.svg
           curl 'https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&layout=compact&langs_count=12&hide_border=true' > assets/github-langs.svg
-          curl 'https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&hide_border=true&include_all_commits=true&theme=dark' > assets/github-stats-dark.svg
+          curl 'https://github-readme-stats.vercel.app/api?username=Tiphereth-A&show_icons=true&hide_border=true&theme=dark' > assets/github-stats-dark.svg
           curl 'https://github-readme-stats.vercel.app/api/top-langs/?username=Tiphereth-A&layout=compact&langs_count=12&hide_border=true&theme=dark' > assets/github-langs-dark.svg
       
       # push the content of <build_dir> to a branch
