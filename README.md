@@ -26,11 +26,11 @@
 
 # :page_with_curl: Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [随笔 - C++ 的高维向量](https://blog.tifa-233.com/archives/draft-025/)
 - [比赛记录 - Codeforces Round #842 &lpar;Div. 2&rpar;](https://blog.tifa-233.com/archives/cf1768/)
 - [比赛记录 - Hello 2023](https://blog.tifa-233.com/archives/cf1779/)
 - [比赛记录 - Codeforces Round #841 &lpar;Div. 2&rpar; and Divide by Zero 2022](https://blog.tifa-233.com/archives/cf1731/)
 - [随笔 - C++ 基于标签分发的线性筛](https://blog.tifa-233.com/archives/draft-024/)
-- [VP 记录 - 2022 ICPC 亚洲区域赛 &lpar;杭州&rpar;](https://blog.tifa-233.com/archives/icpc-ahzr2022/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
