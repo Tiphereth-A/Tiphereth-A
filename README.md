@@ -26,11 +26,11 @@
 
 # :page_with_curl: Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [拟阵简介（unfin）](https://blog.tifa-233.com/archives/matroid/)
-- [题解 - [Luogu P5824] 十二重计数法](https://blog.tifa-233.com/archives/luogu-p5824/)
-- [随笔 - C++ 的高维向量](https://blog.tifa-233.com/archives/draft-025/)
-- [比赛记录 - Codeforces Round #842 &lpar;Div. 2&rpar;](https://blog.tifa-233.com/archives/cf1768/)
-- [比赛记录 - Hello 2023](https://blog.tifa-233.com/archives/cf1779/)
+- [拟阵简介（unfin）](https://tifa-233.com/archives/matroid/)
+- [题解 - [Luogu P5824] 十二重计数法](https://tifa-233.com/archives/luogu-p5824/)
+- [随笔 - C++ 的高维向量](https://tifa-233.com/archives/draft-025/)
+- [比赛记录 - Codeforces Round #842 &lpar;Div. 2&rpar;](https://tifa-233.com/archives/cf1768/)
+- [比赛记录 - Hello 2023](https://tifa-233.com/archives/cf1779/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
