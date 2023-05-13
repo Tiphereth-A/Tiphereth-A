@@ -2,6 +2,7 @@
 - :book: Major in applied mathematics
 - :gear: C++ / Python / MATLAB / Java
 - :fountain_pen: Editor of [OI-wiki](https://github.com/OI-wiki/)
+- :mailbox_with_mail: <only-receive@tifa-233.com>
 
 # :zap: Github Stats
 
