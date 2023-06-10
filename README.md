@@ -1,6 +1,6 @@
 - :thought_balloon: :bulb: :balloon: ACMer
 - :book: Major in applied mathematics
-- :gear: C++ / Python / MATLAB / Java
+- :gear: C / C++ / Python / MATLAB / LaTeX / Java
 - :fountain_pen: Editor of [OI-wiki](https://github.com/OI-wiki/)
 - :mailbox_with_mail: <hi@tifa-233.com>
 
