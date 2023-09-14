@@ -27,11 +27,11 @@
 
 # :page_with_curl: Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VP 记录 - 2021 ICPC 亚洲区域赛 &lpar;澳门&rpar;](https://tifa-233.com/archives/icpc-amcr2021/)
 - [题解 - [Luogu P7486] 「Stoi2031」彩虹](https://tifa-233.com/archives/luogu-p7486/)
 - [拟阵简介（unfin）](https://tifa-233.com/archives/matroid/)
 - [题解 - [Luogu P5824] 十二重计数法](https://tifa-233.com/archives/luogu-p5824/)
 - [随笔 - C++ 的高维向量](https://tifa-233.com/archives/draft-025/)
-- [比赛记录 - Codeforces Round #842 &lpar;Div. 2&rpar;](https://tifa-233.com/archives/cf1768/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
