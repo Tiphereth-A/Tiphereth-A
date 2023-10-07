@@ -26,7 +26,7 @@ jobs:
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         if: success()
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: contribution-grid-snake
           build_dir: assets
