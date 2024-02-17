@@ -30,11 +30,11 @@
 
 # :page_with_curl: Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [随笔 - 批量重命名 APK 文件的 Python 脚本](https://tifa-233.com/archives/draft-026/)
 - [VP 记录 - 2021 CCPC 哈尔滨站](https://tifa-233.com/archives/ccpc-hrbr2021/)
 - [VP 记录 - 2023 ICPC 亚洲区域赛 &lpar;南京&rpar;](https://tifa-233.com/archives/icpc-anjr2023/)
 - [VP 记录 - 2023 CCPC 哈尔滨站](https://tifa-233.com/archives/ccpc-hrbr2023/)
 - [VP 记录 - 2023 CCPC 桂林站](https://tifa-233.com/archives/ccpc-glr2023/)
-- [VP 记录 - 2023 ICPC 亚洲区域赛 &lpar;网络预选赛 Ⅰ&rpar;](https://tifa-233.com/archives/icpc-ar1o2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
