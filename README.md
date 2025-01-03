@@ -37,10 +37,10 @@
 # :page_with_curl: Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [随笔 - Miller-Rabin + Pollard-Rho 分解质因子的时间复杂度分析](https://tifa-233.com/archives/draft-020/)
-- [模板 - 红黑树](https://tifa-233.com/archives/rbtree/)
 - [随笔 - 批量重命名 APK 文件的 Python 脚本](https://tifa-233.com/archives/draft-019/)
 - [VP 记录 - 2021 CCPC 哈尔滨站](https://tifa-233.com/archives/ccpc-hrbr2021/)
 - [VP 记录 - 2023 ICPC 亚洲区域赛 &lpar;南京&rpar;](https://tifa-233.com/archives/icpc-anjr2023/)
+- [VP 记录 - 2023 CCPC 哈尔滨站](https://tifa-233.com/archives/ccpc-hrbr2023/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
